@@ -7,10 +7,10 @@
               <h1 class="text-light"><a href="index.html">Arif Billah</a></h1>
               <div class="social-links mt-3 text-center">
                   {{-- <a href="#" class="twitter" target="_blank"><i class="bx bxl-twitter"></i></a> --}}
-                  <a href="https://www.facebook.com/sayed9609" class="facebook" target="_blank"><i class="bx bxl-facebook"></i></a>
-                  <a href="https://www.instagram.com/sayed_9609" class="instagram" target="_blank"><i class="bx bxl-instagram"></i></a>
-                  <a href="https://join.skype.com/invite/vol7ghyTjnAf" class="google-plus" target="_blank"><i class="bx bxl-skype"></i></a>
-                  <a href="https://www.linkedin.com/in/sayed-mahmud-4a751a2a1/" class="linkedin" target="_blank"><i class="bx bxl-linkedin"></i></a>
+                  <a href="https://www.facebook.com" class="facebook" target="_blank"><i class="bx bxl-facebook"></i></a>
+                  <a href="https://www.instagram.com" class="instagram" target="_blank"><i class="bx bxl-instagram"></i></a>
+                  <a href="https://join.skype.com" class="google-plus" target="_blank"><i class="bx bxl-skype"></i></a>
+                  <a href="https://www.linkedin.com" class="linkedin" target="_blank"><i class="bx bxl-linkedin"></i></a>
               </div>
           </div>
           {{-- <-- nav-menu --> --}}
